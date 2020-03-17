@@ -1,0 +1,55 @@
+{
+
+	"rddlesb924": ["bay_amq_d24_out_audit", "bay_amq_d24_out_biobkr", "bay_amq_d24_out_bkr", "bay_cml_d24_out_ad", "bay_cml_d24_out_oe", "bay_cml_d24_out_oth", "bay_cml_d24_out_rr"],
+
+	"rddlesb925": ["bay_amq_d25_out_audit", "bay_amq_d25_out_biobkr", "bay_amq_d25_out_bkr", "bay_cml_d25_out_ad", "bay_cml_d25_out_oe", "bay_cml_d25_out_oth", "bay_cml_d25_out_rr"],
+
+
+
+	"rddlesb921": ["bay_amq_d21_in_audit", "bay_amq_d21_in_biobkr", "bay_amq_d21_in_bkr", "bay_cml_d21_in_ad", "bay_cml_d21_in_oe", "bay_cml_d21_in_oth", "bay_cml_d21_in_rr"],
+
+	"rddlesb920": ["bay_amq_d20_in_audit", "bay_amq_d20_in_biobkr", "bay_amq_d20_in_bkr", "bay_cml_d20_ansible_mgmt", "bay_cml_d20_in_ad", "bay_cml_d20_in_oe", "bay_cml_d20_in_oth", "bay_cml_d20_in_rr"],
+
+
+
+	"rddlesb922": ["bay_amq_d22_xlate_audit", "bay_cml_d22_router_cat", "bay_cml_d22_xlate_ad", "bay_cml_d22_xlate_ebr2", "bay_cml_d22_xlate_oe", "bay_cml_d22_xlate_oth", "bay_cml_d22_xlate_pcr2", "bay_cml_d22_xlate_rr", "bay_cml_d22_xlate_wbr2"],
+
+	"rddlesb923": ["bay_amq_d23_xlate_audit", "bay_cml_d23_router_cat", "bay_cml_d23_xlate_ad", "bay_cml_d23_xlate_ebr2", "bay_cml_d23_xlate_oe", "bay_cml_d23_xlate_oth", "bay_cml_d23_xlate_pcr2", "bay_cml_d23_xlate_rr", "bay_cml_d23_xlate_wbr2"],
+
+
+
+	"rddlesb935": ["val_amq_d25_out_audit", "val_amq_d25_out_biobkr", "val_amq_d25_out_bkr", "val_cml_d25_out_ad", "val_cml_d25_out_oe", "val_cml_d25_out_oth", "val_cml_d25_out_rr"],
+
+	"rddlesb934": ["val_amq_d24_out_audit", "val_amq_d24_out_biobkr", "val_amq_d24_out_bkr", "val_cml_d24_out_ad", "val_cml_d24_out_oe", "val_cml_d24_out_oth", "val_cml_d24_out_rr"],
+
+
+
+	"rddlesb931": ["val_amq_d21_in_audit", "val_amq_d21_in_biobkr", "val_amq_d21_in_bkr", "val_cml_d21_in_ad", "val_cml_d21_in_oe", "val_cml_d21_in_oth", "val_cml_d21_in_rr"],
+
+	"rddlesb930": ["val_amq_d20_in_audit", "val_amq_d20_in_biobkr", "val_amq_d20_in_bkr", "val_cml_d20_in_ad", "val_cml_d20_in_oe", "val_cml_d20_in_oth", "val_cml_d20_in_rr"],
+
+
+
+	"rddlesb933": ["val_amq_d23_xlate_audit", "val_cml_d23_router_cat", "val_cml_d23_xlate_ad", "val_cml_d23_xlate_cvr2", "val_cml_d23_xlate_oe", "val_cml_d23_xlate_oth", "val_cml_d23_xlate_rr", "val_cml_d23_xlate_ssr2"],
+
+	"rddlesb932": ["val_amq_d22_xlate_audit", "val_cml_d22_router_cat", "val_cml_d22_xlate_ad", "val_cml_d22_xlate_cvr2", "val_cml_d22_xlate_oe", "val_cml_d22_xlate_oth", "val_cml_d22_xlate_rr", "val_cml_d22_xlate_ssr2"],
+
+
+
+	"rddlesb945": ["ent_amq_d25_out_audit", "ent_amq_d25_out_bkr", "ent_amq_d25_out_catbkr", "ent_amq_d25_out_epicbkr", "ent_cml_d25_out_ad", "ent_cml_d25_out_all", "ent_cml_d25_out_cat", "ent_cml_d25_out_oe", "ent_cml_d25_out_oth", "ent_cml_d25_out_rr"],
+
+	"rddlesb944": ["ent_amq_d24_out_audit", "ent_amq_d24_out_bkr", "ent_amq_d24_out_catbkr", "ent_amq_d24_out_epicbkr", "ent_cml_d24_out_ad", "ent_cml_d24_out_all", "ent_cml_d24_out_cat", "ent_cml_d24_out_oe", "ent_cml_d24_out_oth", "ent_cml_d24_out_rr"],
+
+
+
+	"rddlesb940": ["ent_amq_d20_in_audit", "ent_amq_d20_in_bkr", "ent_amq_d20_in_catbkr", "ent_amq_d20_in_epicbkr", "ent_cml_d20_in_ad", "ent_cml_d20_in_all", "ent_cml_d20_in_cat", "ent_cml_d20_in_oe", "ent_cml_d20_in_oth", "ent_cml_d20_in_rr"],
+
+	"rddlesb941": ["ent_amq_d21_in_audit", "ent_amq_d21_in_bkr", "ent_amq_d21_in_catbkr", "ent_amq_d21_in_epicbkr", "ent_cml_d21_in_ad", "ent_cml_d21_in_all", "ent_cml_d21_in_cat", "ent_cml_d21_in_oe", "ent_cml_d21_in_oth", "ent_cml_d21_in_rr"],
+
+
+
+	"rddlesb942": ["ent_amq_d22_xlate_audit", "ent_cml_d22_cbr_bay", "ent_cml_d22_cbr_bay2", "ent_cml_d22_cbr_val", "ent_cml_d22_cbr_val2", "ent_cml_d22_cbr_xrr", "ent_cml_d22_router_cat", "ent_cml_d22_xlate_all", "ent_cml_d22_xlate_cat"],
+
+	"rddlesb943": ["ent_amq_d23_xlate_audit", "ent_cml_d23_cbr_bay", "ent_cml_d23_cbr_bay2", "ent_cml_d23_cbr_val", "ent_cml_d23_cbr_val2", "ent_cml_d23_cbr_xrr", "ent_cml_d23_router_cat", "ent_cml_d23_xlate_all", "ent_cml_d23_xlate_cat"]
+
+}
